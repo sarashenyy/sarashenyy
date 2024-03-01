@@ -1,6 +1,6 @@
 <h1> Hi, I'm Sara! <img src="https://media.giphy.com/media/bWzXFIpMPZ4TnuGi1g/giphy.gif" width="55"></h1>
 
-### <img src="https://media.giphy.com/media/azi3GTPtxWKCQ/giphy.gif" width="35"> I love **Astrophysics**✨ & **Coding**👩‍💻
+### <img src="https://media.giphy.com/media/azi3GTPtxWKCQ/giphy.gif" width="35">I love **Astrophysics**✨ & **Coding**👩‍💻
 ### <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30">  I'm a Master's student in [NAOC, China](http://www.bao.ac.cn/)
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m working on star clusters, see [starcat](https://github.com/sarashenyy/starcat)
 
