@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1> Hi, I'm Sara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I love **Astrophysics**✨ & **Coding**👩‍💻
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I'm a Master's student in [NAOC, China](http://www.bao.ac.cn/)
+- 🔭 I’m currently working on star clusters
+- 🌱 I’m currently learning 
 
 <!--
 **sarashenyy/sarashenyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
