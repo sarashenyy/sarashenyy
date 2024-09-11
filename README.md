@@ -7,7 +7,7 @@
 
 
 ## Recent Events
-- ### Paper with code 🤩 [SolarDis](https://github.com/sarashenyy/SolarDis/), distance and stellar parameters of solar-like stars!
+- ### ❗️NEW❗️ Paper with code 🤩 [SolarDis](https://github.com/sarashenyy/SolarDis/), distance and stellar parameters of solar-like stars!
 - ### Bothered by ugly sampling results? Use [PonGrid](https://github.com/sarashenyy/PonGrid) to check your posterior!
 - ### my daily notes on astro-ph 👉 [dailyarxiv](https://github.com/sarashenyy/dailyarxiv)
 
