@@ -3,10 +3,11 @@
 
 ### <img src="https://media.giphy.com/media/azi3GTPtxWKCQ/giphy.gif" width="35">I love **Astrophysics**✨ & **Coding**👩‍💻
 ### <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30">  I'm a PhD student in [NAOC, China](http://www.bao.ac.cn/)
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m working on star clusters, see [STARCAT](https://github.com/sarashenyy/starcat)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m working on star clusters (see [STARCAT](https://github.com/sarashenyy/starcat)) and stellar spectroscopy (see [SolarDis](https://github.com/sarashenyy/SolarDis/)).
 
 
 ## Recent Events
+- ### Paper with code 🤩 [SolarDis](https://github.com/sarashenyy/SolarDis/), distance and stellar parameters of solar-like stars!
 - ### Bothered by ugly sampling results? Use [PonGrid](https://github.com/sarashenyy/PonGrid) to check your posterior!
 - ### my daily notes on astro-ph 👉 [dailyarxiv](https://github.com/sarashenyy/dailyarxiv)
 
