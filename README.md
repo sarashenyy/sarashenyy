@@ -2,7 +2,7 @@
 
 
 ### <img src="https://media.giphy.com/media/azi3GTPtxWKCQ/giphy.gif" width="35">I love **Astrophysics**✨ & **Coding**👩‍💻
-### <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30">  I'm a PhD student in [NAOC, China](http://www.bao.ac.cn/)
+### <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30">  I'm a PhD student in [NAOC](http://www.bao.ac.cn/), here's my [CV 📄](./CV_YueYueShen.pdf)
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m working on star clusters (see [STARCAT](https://github.com/sarashenyy/starcat)) and stellar spectroscopy (see [SolarDis](https://github.com/sarashenyy/SolarDis/)).
 
 
