@@ -1,5 +1,5 @@
 <h1>
-Hi, I'm Sara (沈越月 <small>means Luna</small>) !
+Hi, I'm Sara (沈越月) !
 <img src="https://media.giphy.com/media/bWzXFIpMPZ4TnuGi1g/giphy.gif" width="55">
 </h1>
 
