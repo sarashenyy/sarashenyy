@@ -4,13 +4,13 @@ Hi, I'm Yue-Yue Shen (沈越月) !
 </h1>
 
 
-### <img src="https://media.giphy.com/media/azi3GTPtxWKCQ/giphy.gif" width="35">I love **Astrophysics**✨ & **Coding**👩‍💻
-### <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30">  I'm a PhD student in [NAOC](http://www.bao.ac.cn/), here's my [CV 📄](./CV_YueYueShen.pdf)
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m working on star clusters (see [STARCAT](https://github.com/sarashenyy/starcat)) and stellar spectroscopy (see [SolarDis](https://github.com/sarashenyy/SolarDis/)).
+### <img src="https://media.giphy.com/media/azi3GTPtxWKCQ/giphy.gif" width="35">I love **astrophysics**✨ and **coding**👩‍💻
+### <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30">  I'm a PhD student at _NAOC_, currently visiting _OAS Bologna_, here's my [CV 📄](./CV_YueYueShen.pdf)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I work on star clusters (see [STARCAT](https://github.com/sarashenyy/starcat)) and stellar spectroscopy (see [SolarDis](https://github.com/sarashenyy/SolarDis/)).
 
 
 ## Recent Events
-- ### Paper with code 🤩 [SolarDis](https://github.com/sarashenyy/SolarDis/), distance and stellar parameters of solar-like stars!
+- ### Paper with code 🤩 [SolarDis](https://github.com/sarashenyy/SolarDis/), measuring distances and stellar parameters of solar-like stars!
 - ### Bothered by ugly sampling results? Use [PonGrid](https://github.com/sarashenyy/PonGrid) to check your posterior!
 - ### my daily notes on astro-ph 👉 [dailyarxiv](https://github.com/sarashenyy/dailyarxiv)
 
